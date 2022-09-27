@@ -9,4 +9,5 @@ the site displays a list of actors of the Telvesion series breaking bad and give
 </br>
 the user can choose the name of the charater and the data in the page will change to the chosen one.
 </br>
-![Site ScreenShot](imgs/pic1.jpg)
+</br>
+<img src = "imgs/pic1.jpg">
